@@ -1,0 +1,32 @@
+[
+    {
+        "year": 2020,
+        "month": "January",
+        "budget_amount": 50000.00,
+        "business_line": "BL123"
+    },
+    {
+        "year": 2021,
+        "month": "February",
+        "budget_amount": 75000.00,
+        "business_line": "BL456"
+    },
+    {
+        "year": 2022,
+        "month": "March",
+        "budget_amount": 60000.00,
+        "business_line": "BL789"
+    },
+    {
+        "year": 2023,
+        "month": "April",
+        "budget_amount": 80000.00,
+        "business_line": "BL112"
+    },
+    {
+        "year": 2024,
+        "month": "May",
+        "budget_amount": 90000.00,
+        "business_line": "BL345"
+    }
+]
