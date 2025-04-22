@@ -12,16 +12,16 @@ npx @modelcontextprotocol/inspector
 - See: History
 
 ## Use the server
-- VSCode
+- Open VSCode
 - Open Copilot
-- Select Afent (under the text/question box)
+- Select Agent (under the text/question box)
 - Shift+Cmd+P => MCP Add Server => Add Server => HTTP
 - Enter http://0.0.0.0:8080/sse
 - Start connecting to the server, if not started
     - Shift+Cmd+P => MCP List Server => Select the one added => Start
 - Ask question 
     - Get my full name
-- Ask question 
+- Ask question  
 Answer following questions based on the budget data:
 - What are the unique business lines?
 - What is total budget of 2024?
